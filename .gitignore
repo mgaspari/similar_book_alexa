@@ -1,0 +1,5 @@
+# zips for uploading
+*.zip
+
+# Old API file
+api.js
